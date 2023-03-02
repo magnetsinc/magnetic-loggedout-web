@@ -9,7 +9,7 @@ fields:
 links:
   - name: null
     type: REPOSITORY
-    url: 'https://github.com/magnetsinc/loggedout-web'
+    url: 'https://github.com/magnetsinc/magnetic-loggedout-web'
   - name: Front-End-Wizards
     type: CHAT_CHANNEL
     url: 'https://atlassian.slack.com/archives/C03BUGRV479'
