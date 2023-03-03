@@ -4,7 +4,7 @@ description: Logged out web experience for Magnetic.
 configVersion: 1
 ownerId: 'ari:cloud:teams::team/b765d6f4-78f8-452c-a883-77a0c4abacf6'
 fields:
-  tier: 1
+  tier: 2
   lifecycle: Active
 links:
   - name: Front-End-Wizards
